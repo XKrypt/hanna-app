@@ -1,0 +1,6 @@
+{
+    "apps" : [
+        {"name" : "Chrome", "path" : "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe", "id" : 1},
+        {"name" : "Inkscape", "path" : "C:\\Program Files\\Inkscape\\bin\\inkscape.exe", "id" : 2}
+    ]
+}
